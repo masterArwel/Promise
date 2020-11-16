@@ -1,0 +1,19 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterArwel/Promise.git"
+  },
+  "author": "shaowei.an",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterArwel/Promise/issues"
+  },
+  "homepage": "https://github.com/masterArwel/Promise#readme"
+}
